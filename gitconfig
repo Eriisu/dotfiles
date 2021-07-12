@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = emjburridge@gmail.com
+	name = Elise Burridge
